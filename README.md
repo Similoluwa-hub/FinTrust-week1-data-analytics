@@ -1,6 +1,6 @@
 # FinTrust-week1-data-analytics
 Week 1 Data Analytics Deliverables for the AnalystLab Africa Experience Lab Internship Programme.
-**# FinTrust Digital Bank — Week 1 Data Analytics
+# FinTrust Digital Bank — Week 1 Data Analytics
 
 This repository contains my Week 1 submission for the AnalystLab Africa Experience Lab Internship Programme — Data Analytics Track.
 
@@ -8,13 +8,13 @@ This repository contains my Week 1 submission for the AnalystLab Africa Experien
 
 **FinTrust Financial Intelligence & Digital Banking Support Solution**
 
-## Week 1 Focus
+## Week 1 Deliverables
 
 * Business Understanding
 * Data Understanding and Profiling
 * Analytical Questions
-* KPI Planning
-* Dashboard Planning
+* KPI Definition Table
+* Dashboard Wireframe
 * Initial Analysis Plan
 
 ## Tools
@@ -24,14 +24,9 @@ This repository contains my Week 1 submission for the AnalystLab Africa Experien
 * SQL
 * Power BI
 
-## Deliverables
+## Files
 
-1. Business Understanding
-2. Data Understanding/Profiling Report
-3. Analytical Questions
-4. KPI Definition Table
-5. Dashboard Wireframe
-6. Initial Analysis Plan
+* `FinTrust_Week1_Data_Analytics_Report.pdf` — Week 1 report
+* `FinTrust_Dashboard_Wireframe.png` — Dashboard planning wireframe
 
-The FinTrust datasets used for this project are synthetic and intended for educational purposes.
-**
+The FinTrust datasets used in this project are synthetic and intended for educational purposes.
