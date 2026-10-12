@@ -124,3 +124,71 @@ This project continues to strengthen my practical skills in SQL, Python, data vi
 **Programme:** AnalystLab Africa Experience Lab
 **Hashtags:** #AnalystLabAfrica #DataAnalytics #SQL #Python #PowerBI #BusinessIntelligence
 
+FinTrust Digital Bank | Data Analytics Track Project 
+
+AnalystLab Africa Experience Lab Internship — October 2026
+
+Project Overview
+
+The FinTrust Financial Intelligence & Digital Banking Support Solution is a data analytics project focused on understanding customer behaviour, transaction performance, digital channel usage and transaction risk-review patterns.
+
+Across the project weeks, I worked with customer and transaction data to identify business insights and present findings through SQL analysis, Python exploratory data analysis and an interactive Power BI dashboard.
+
+Objectives
+
+* Evaluate transaction performance and monthly trends.
+* Analyse customer transaction frequency and value concentration.
+* Compare digital channel performance and usage.
+* Examine patterns in transaction risk-review flags.
+* Develop actionable, data-driven business recommendations.
+
+Tools and Technologies
+
+* Microsoft Excel — Data inspection and quality checks
+* SQL — Data analysis, aggregations, CTEs and window functions
+* Python — Pandas, NumPy, Matplotlib and Seaborn
+* Power BI — KPI reporting and interactive dashboard development
+* GitHub — Project version control and documentation
+
+Key Business Insights
+
+* The dataset contains 1,500 customers and 12,000 transactions.
+* Total transaction value is approximately ₦560.5 million.
+* The overall transaction success rate is approximately 90.5%.
+* Mobile App transactions account for 5,102 transactions.
+* The top 25% of customers by transaction value contribute approximately 51% of total transaction value.
+* High-value transactions show higher risk-review flag rates than normal-value transactions across customer segments.
+* Monthly transaction value declined in February before recovering in March 2026.
+
+Business Recommendations
+
+1. Investigate failed transactions to identify potential causes and improve reliability.
+2. Monitor monthly transaction trends and channel-level performance.
+3. Develop suitable engagement and retention strategies for high-value customers.
+4. Investigate risk-review patterns using appropriate checks without assuming that a review flag confirms fraud.
+5. Use the dashboard to monitor key performance indicators and support business decisions.
+
+Project Deliverables
+
+* Power BI dashboard
+* SQL business analysis scripts
+* Python exploratory analysis notebook
+* KPI documentation and business insights
+* Data-quality checks and validation evidence
+* Business recommendations
+* Final project documentation
+
+Limitations
+
+The project uses synthetic banking data, which may not fully reflect real-world banking operations. Risk-review flags are analytical indicators and should not be interpreted as confirmed fraudulent transactions. Final technical validation and corrections are part of the project completion process.
+
+Conclusion
+
+This project demonstrates how SQL, Python and Power BI can be combined to transform customer and transaction data into actionable business insights. It strengthened my practical experience in data analysis, business problem-solving, data visualisation and communicating findings.
+
+
+Project Track: Data Analytics
+Programme: AnalystLab Africa Experience Lab Internship
+Author: Oluwayomi Precious Similoluwa
+
+#DataAnalytics #SQL #Python #PowerBI #BusinessIntelligence
