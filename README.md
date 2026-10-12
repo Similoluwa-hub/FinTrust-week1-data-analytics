@@ -124,7 +124,9 @@ This project continues to strengthen my practical skills in SQL, Python, data vi
 **Programme:** AnalystLab Africa Experience Lab
 **Hashtags:** #AnalystLabAfrica #DataAnalytics #SQL #Python #PowerBI #BusinessIntelligence
 
-FinTrust Digital Bank — Week 4 Final Project Documentation
+Week 4: Final Project Documentation & Validation
+
+FinTrust Digital Bank | Data Analytics Project
 
 AnalystLab Africa Experience Lab Internship — October 2026
 
